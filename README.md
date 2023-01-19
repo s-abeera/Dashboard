@@ -1,7 +1,7 @@
 # Onco Precision dashboard
 
 ### Running the app locally
-
+Link: https://docs.google.com/document/d/1fOZLxWwFpKFoofSm5XYlF51EBVFfz-DuqQVf0dzgfpg/edit
 ---
 ##clone the repo
 
